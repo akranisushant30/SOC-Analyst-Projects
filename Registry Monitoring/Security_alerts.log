@@ -1,0 +1,3 @@
+[01-02-26 : 16:07:10] CRITICAL ALERT: New entry in User_Startup -> New Value #1:
+[01-02-26 : 16:07:30] WARNING: Modification in User_Startup -> New Value #1:virus.exe changed its Value!
+[01-02-26 : 16:07:50] INFO: Entry Deleted from User_Startup->New Value #1

@@ -1,0 +1,15 @@
+{
+    "User_Startup": {
+        "MicrosoftEdgeAutoLaunch_DF762E2323C2D70600A85808C04A2063": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
+        "OneDrive": "\"C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe\" /background"
+    },
+    "System_Startup": {
+        "SecurityHealth": "%windir%\\system32\\SecurityHealthSystray.exe",
+        "RtkAudUService": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_434f4faf6aa034b3\\RtkAudUService64.exe\" -background",
+        "WavesSvc": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\wavesapo10de.inf_amd64_db3f3288eba6a142\\WavesSvc64.exe\" -Jack",
+        "PTM6500Monitor": "C:\\Program Files\\Pantum\\ptm6500\\PushScan\\ptm6500PushMonitor.exe"
+    },
+    "Defender_Policies": {
+        "": ""
+    }
+}
