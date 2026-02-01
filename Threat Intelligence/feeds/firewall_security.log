@@ -1,0 +1,5 @@
+Jan 30 14:22:10 Auth-Fail: 104.244.42.1 attempted brute force.
+Jan 30 14:30:05 Connection allowed: 8.8.8.8 (Safe)
+Jan 30 14:45:12 Connection blocked: 192.168.1.105 (Known Malicious)
+Jan 30 15:00:00 Scanner detected hash: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+Jan 30 15:10:22 Alert: Connection to 203.0.113.42 on port 4444.

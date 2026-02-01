@@ -1,0 +1,19 @@
+# OSINT Public Threat Feed - Jan 2026
+# High Risk IP Addresses
+104.244.42.1
+185.199.108.153
+192.168.1.105
+45.33.32.156
+203.0.113.42
+
+# Malicious Domains
+malicious-site.com
+tracker.malware-cnc.ru
+update-service-login.net
+secure-bank-verify.io
+cheap-software-crack.biz
+
+# File Hashes (SHA256)
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+c3ab8ff13720e8ad9047dd39466b3c8974e592c2fa383d4a3960714caef0c4f2
+f2ca1bb6c7e907d06dafe4687e579fce76b377f93b128f9735d1575c3b0ebb2

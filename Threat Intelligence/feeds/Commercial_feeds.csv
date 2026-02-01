@@ -1,0 +1,7 @@
+indicator,type,severity
+104.244.42.1,ip,High
+8be265d3ec6248318e87391929f1b953,hash,Critical
+phishing@attacker-service.com,email,Medium
+malicious-site.com,domain,High
+192.168.1.105,ip,Medium
+45.33.32.156,ip,High
